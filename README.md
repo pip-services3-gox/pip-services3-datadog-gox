@@ -4,18 +4,18 @@ This module is a part of the [Pip.Services](http://pipservices.org) polyglot mic
 It contains the DataDog logger and performance counters components.
 
 The module contains the following packages:
-- [**Build**](build) - contains a class used to create DataDog components by their descriptors.
-- [**Clients**](clients) - contains constants and classes used to define REST clients for DataDog
-- [**Count**](count) - contains a class used to create performance counters that send their metrics to a DataDog service
-- [**Log**](log) - contains a class used to create loggers that dump execution logs to a DataDog service.
+- **Build** - contains a class used to create DataDog components by their descriptors.
+- **Clients** - contains constants and classes used to define REST clients for DataDog
+- **Count** - contains a class used to create performance counters that send their metrics to a DataDog service
+- **Log** - contains a class used to create loggers that dump execution logs to a DataDog service.
 
 <a name="links"></a> Quick links:
 
-* [Configuration](https://www.pipservices.org/recipies/configuration)
-* [API Reference](https://pip-services3-node.github.io/pip-services3-datadog-node/globals.html)
+* [Configuration](http://docs.pipservices.org/concepts/configuration/)
+* [API Reference](https://godoc.org/github.com/pip-services3-gox/pip-services3-datadog-gox/)
 * [Change Log](CHANGELOG.md)
-* [Get Help](https://www.pipservices.org/community/help)
-* [Contribute](https://www.pipservices.org/community/contribute)
+* [Get Help](http://docs.pipservices.org/get_help/)
+* [Contribute](http://docs.pipservices.org/contribute/)
 
 ## Use
 
