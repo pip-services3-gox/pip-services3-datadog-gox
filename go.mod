@@ -3,11 +3,11 @@ module github.com/pip-services3-gox/pip-services3-datadog-gox
 go 1.18
 
 require (
-	github.com/pip-services3-gox/pip-services3-commons-gox v1.0.6
-	github.com/pip-services3-gox/pip-services3-components-gox v1.0.6
-	github.com/pip-services3-gox/pip-services3-rpc-gox v1.0.2
+	github.com/pip-services3-gox/pip-services3-commons-gox v1.0.7
+	github.com/pip-services3-gox/pip-services3-components-gox v1.0.7
+	github.com/pip-services3-gox/pip-services3-rpc-gox v1.0.3
 	github.com/stretchr/testify v1.8.0
-	golang.org/x/net v0.0.0-20221002022538-bcab6841153b
+	golang.org/x/net v0.0.0-20221004154528-8021a29435af
 )
 
 require (
