@@ -5,6 +5,6 @@ services:
     build:
       context: ..
       dockerfile: docker/Dockerfile.test
-    image: ${IMAGE:-pipdevs/test}
+    image: ${IMAGE:-pipservices/test}
     environment:
       - DATADOG_API_KEY=3eb3355caf628d4689a72084425177ac
